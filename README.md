@@ -1,2 +1,28 @@
-# 3d-printing-maker-screenshot-and-annotation-tool-chrome-extension
-Capture, annotate, and share 3D Printing &amp; Maker data with team collaboration built in. Visual communication without switching apps.
+# 3D Printing & Maker Screenshot and Annotation Tool Chrome Extension
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM5kDcLl5wgg88bzSd0r2O)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM5kDcLl5wgg88bzSd0r2O)
+
